@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VisitorApp</string>
+    <string name="test_git">test</string>
 </resources>
